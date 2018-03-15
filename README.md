@@ -1,3 +1,3 @@
 # gkchristopher
 
-Site of Christopher Moore
+Christopher Moore
