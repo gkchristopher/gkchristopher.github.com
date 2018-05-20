@@ -1,6 +1,6 @@
 # gkchristopher
 
 **Christopher Moore**
-Mooresville, NC
+  Mooresville, NC
 
 _iOS Developer_
